@@ -1,6 +1,6 @@
 {
   "name": "@kingironman2011/react-beautiful-dnd",
-  "version": "13.1.3",
+  "version": "13.1.4",
   "description": "Beautiful and accessible drag and drop for lists with React",
   "author": "KingIronMan2011",
   "keywords": [
@@ -154,6 +154,7 @@
     "output": "test-reports/junit/js-test-results.xml"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
   }
 }
